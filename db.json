@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "username": "mayur",
+      "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1400&q=60",
+      "email": "mayur@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "username": "shiva",
+      "image": "https://plus.unsplash.com/premium_photo-1667667720425-6972aff75f6b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJvZmlsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1400&q=60",
+      "email": "shiva@gmail.com",
+      "password": "321",
+      "id": 2
+    }
+  ],
+  "blogs": [
+    {
+      "username": "mayur",
+      "title": "akdnad",
+      "content": "knasndna",
+      "category": "Business",
+      "blog_date": "2023-01-31",
+      "likes": 0,
+      "comments": [
+        {
+          "username": "mayur",
+          "content": "lksndlas",
+          "image": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZmlsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1400&q=60"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "username": "shiva",
+      "title": "knana",
+      "content": "jkbwkjdb",
+      "category": "Lifestyle",
+      "blog_date": "2023-02-28",
+      "likes": 0,
+      "comments": [],
+      "id": 2
+    }
+  ]
+}
